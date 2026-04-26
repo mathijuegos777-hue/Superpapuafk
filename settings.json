@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheSUrViVAL3104.aternos.me",
-    "port": 27586,
-    "version": "26.1.2",
+    "ip": "thesurvival3104.aternos.me",
+    "port": 25565,
+    "version": "1.21.2",
     "try-creative": false
   },
   "position": {
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "https://discord.gg/WJRPKsdA",
+    "webhookUrl": "",
     "events": {
       "connect": true,
       "disconnect": true,
