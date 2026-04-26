@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Superpapuafk",
     "password": "",
     "type": "offline"
   },
@@ -37,13 +37,13 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
   "movement": {
     "enabled": true,
-    "circle-walk": {
+    "circle-walk": {true,
       "enabled": true,
       "radius": 4,
       "speed": 3000
